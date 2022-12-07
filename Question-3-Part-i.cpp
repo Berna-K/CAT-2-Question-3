@@ -14,6 +14,7 @@ bool checkEvent(int number)
 int main()
 {
 int number;
+cout<<"please enter a number"<<endl;
 cin>>number;
 
 if(checkEvent(number)==true)
