@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-//check if number is even
+//check greatest number
 int max(int number1, int number2, int number3)
 {
     int maxnumber;
