@@ -35,6 +35,5 @@ cin>>number3;
 
 cout<<"The greatest number is "<<max(number1,number2,number3)<<endl;
 
-system("pause");
 return 0;
 }
